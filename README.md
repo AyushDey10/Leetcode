@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/XpertGamer10/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/XpertGamer10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AyushDey10/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AyushDey10/Leetcode/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -58,8 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushDey10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
