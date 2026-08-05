@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/XpertGamer10/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/XpertGamer10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/AyushDey10/Leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/XpertGamer10/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AyushDey10/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AyushDey10/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AyushDey10/Leetcode/tree/master/1406-stone-game-iii) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/AyushDey10/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AyushDey10/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/AyushDey10/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
