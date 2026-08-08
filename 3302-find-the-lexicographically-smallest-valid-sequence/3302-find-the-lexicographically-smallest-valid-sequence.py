@@ -46,8 +46,4 @@ class Solution(object):
         return []
 
 sol = Solution()
-
 print(sol.validSequence("vbcca", "abc"))
-print(sol.validSequence("bacdc", "abc"))
-print(sol.validSequence("aaaaaa", "aaabc"))
-print(sol.validSequence("abc", "ab"))        
