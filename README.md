@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AyushDey10/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AyushDey10/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AyushDey10/Leetcode/tree/master/1510-stone-game-iv) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushDey10/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushDey10/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushDey10/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AyushDey10/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AyushDey10/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushDey10/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushDey10/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushDey10/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushDey10/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushDey10/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushDey10/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
