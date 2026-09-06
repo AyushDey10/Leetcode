@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AyushDey10/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/AyushDey10/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/AyushDey10/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/AyushDey10/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AyushDey10/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushDey10/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushDey10/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AyushDey10/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/AyushDey10/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AyushDey10/Leetcode/tree/master/1140-stone-game-ii) |
