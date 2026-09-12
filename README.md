@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushDey10/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushDey10/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushDey10/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushDey10/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushDey10/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushDey10/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushDey10/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/XpertGamer10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushDey10/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AyushDey10/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AyushDey10/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AyushDey10/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushDey10/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushDey10/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushDey10/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AyushDey10/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/AyushDey10/Leetcode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
