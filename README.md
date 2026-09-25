@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/XpertGamer10/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/XpertGamer10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AyushDey10/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AyushDey10/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AyushDey10/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/AyushDey10/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AyushDey10/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AyushDey10/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/AyushDey10/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AyushDey10/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AyushDey10/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AyushDey10/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushDey10/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/AyushDey10/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AyushDey10/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AyushDey10/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AyushDey10/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
