@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/XpertGamer10/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/XpertGamer10/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushDey10/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushDey10/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/AyushDey10/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AyushDey10/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AyushDey10/Leetcode/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushDey10/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushDey10/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AyushDey10/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AyushDey10/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AyushDey10/Leetcode/tree/master/0877-stone-game) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushDey10/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AyushDey10/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AyushDey10/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushDey10/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
